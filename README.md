@@ -1,5 +1,5 @@
 ## Thinkful Datasets Assignment!
 
-## Installation:
+### Installation:
 
 #### Requires '.env' with API_TOKEN
